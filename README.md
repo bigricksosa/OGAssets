@@ -18,7 +18,7 @@ Made by [Sosa](https://github.com/bigricksosa)
 ## Downloads
 Available on Nexusmods
 
-### [Download on Nexus](https://www.nexusmods.com/schedule1/mods/631)
+### [Download on Nexus](https://www.nexusmods.com/schedule1/mods/772)
 ---
 ### Installation 
 1. Download the latest mod release
